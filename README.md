@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asd-05
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development and ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my undergrad projects
 - 📫 How to reach me anishdeshpande2002@gmail.com
